@@ -87,9 +87,8 @@ Extract text from:
 * Multi-File Knowledge Base
 * Personalized Study Recommendations
 * Quiz Generation
-* Flashcard Generation
 * Learning Progress Tracking
-* Voice-Based AI Assistant
+* Score Prediction
 
 ## 🎯 Use Cases
 
