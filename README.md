@@ -107,8 +107,8 @@ API keys and sensitive configurations are excluded using `.gitignore` and enviro
 
 ## 👨‍💻 Author
 
-PRUDHVI RAJ BANIKELA 
-ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (JNTUK)
+-PRUDHVI RAJ BANIKELA 
+-ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (JNTUK)
 
 
 
