@@ -107,5 +107,8 @@ API keys and sensitive configurations are excluded using `.gitignore` and enviro
 
 ## 👨‍💻 Author
 
-Developed as an AI-driven educational platform to bridge the gap between traditional study resources and modern intelligent learning systems.
+PRUDHVI RAJ BANIKELA 
+ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (JNTUK)
+
+
 
