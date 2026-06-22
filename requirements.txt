@@ -1,0 +1,11 @@
+streamlit
+pandas
+scikit-learn
+joblib
+matplotlib
+streamlit-authenticator
+sqlalchemy
+plotly
+fpdf
+google-generativeai
+groq
